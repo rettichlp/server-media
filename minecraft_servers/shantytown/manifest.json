@@ -1,0 +1,17 @@
+{
+  "server_name": "shantytown",
+  "nice_name": "ShantyTown",
+  "direct_ip": "shantytown.eu",
+  "social": {
+    "discord": "https://discord.gg/ZKEN8HE8b3"
+  },
+  "discord": {
+    "server_id": 214319038556405761,
+    "rename_to_minecraft_name": false
+  },
+  "brand": {
+     "primary": "#00AAAA",
+     "background": "#00AAAA",
+     "text": "#FFFFFF"
+  }
+}
